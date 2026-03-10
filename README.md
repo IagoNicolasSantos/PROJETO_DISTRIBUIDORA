@@ -33,3 +33,7 @@ Estruturação relacional detalhada, preparando o terreno para a implementação
 <img width="685" height="529" alt="DIAGRAMA LOGICO DIS" src="https://github.com/user-attachments/assets/0b0fc1ee-d489-4406-b0e8-a205096d9927" /> Imagem do modelo relacional lógico.
 
 O ARQUIVO DO PROJETO VAI SER POSTADO
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido por **Iago Nicolas Santos Schwarz**
